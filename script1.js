@@ -3,7 +3,7 @@ const projects = [
         title: "Familia Popescu",
         subtitle: "O familie cu 4 copii",
         mainImage: "https://www.sperantapentruromania.ro/wp-content/uploads/2020/01/poza-buna.jpg",
-        description: "Ajută această familie să treacă prin iarna friguroasă cu un ",
+        description: "Ajută această familie să treacă prin iarna friguroasă cu un bunicel",
         members: 6,
         children: 4,
         gallery: [
